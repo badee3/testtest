@@ -57,14 +57,6 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sl-3-1400-750-1400x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sl-3-1400-750-1400x750-800x429.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
                 "active": true
               }
             ]
