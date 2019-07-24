@@ -6,7 +6,9 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#ffcb01"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.4",
@@ -33,11 +35,33 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#ffcb01",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sl-2-1400-750-1400x750-800x429.jpg",
                 "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/kitchen-island-cabinets-8-1400-750-1400x750-800x429.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sl-1-1400-750-1400x750.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -63,7 +87,7 @@
             "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ffcb01",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sl-2-1400-750-1400x750.jpg",
@@ -74,8 +98,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sl-3-1400-750-1400x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sl-3-1400-750-1400x750-800x429.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kitchen-island-cabinets-8-1400-750-1400x750-800x429.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kitchen-island-cabinets-8-1400-750-1400x750-800x429-800x429.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
