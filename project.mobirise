@@ -35,7 +35,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": false,
-            "bgColor": "#ffcb01",
+            "bgColor": "#cccccc",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sl-2-1400-750-1400x750-800x429.jpg",
@@ -87,7 +87,7 @@
             "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#ffcb01",
+            "bgColor": "#cccccc",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sl-2-1400-750-1400x750.jpg",
